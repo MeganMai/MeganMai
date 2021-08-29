@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MeganMai
+- 👀 I’m interested in Food and Agriculture
+- 🌱 I’m currently learning Narketing and Machine Learning
+- 💞️ I’m looking to collaborate on application of ML in Food and Agriculture
+- 📫 How to reach me: https://www.linkedin.com/in/megan-mai/ or email me: Megan.mai@MaiSol.com.vn
